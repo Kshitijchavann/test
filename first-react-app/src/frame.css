@@ -1,0 +1,8 @@
+.frame {
+    background-color: lightblue;
+    padding: 10px;
+    border: 1px solid darkblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
